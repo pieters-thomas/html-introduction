@@ -1,0 +1,8 @@
+body{background-color: azure;}
+header{font-size: 35px; color: black; font-family: cursive;}
+footer{text-align: center;}
+table,td{border: 1px solid black;}
+table{border-collapse: collapse;}
+td{vertical-align: top;}
+img{float:right; border-radius: 50px; }
+h2,h3{font-family: cursive}
